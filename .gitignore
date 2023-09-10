@@ -3,3 +3,4 @@
 .pytest_cache
 .mypy_cache
 .ropeproject
+__pycache__
